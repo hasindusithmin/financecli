@@ -6,6 +6,11 @@ authors = ["hasindu sithmin <hasindusithmin64@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+typer = {extras = ["all"], version = "^0.6.1"}
+yfinance = "^0.1.74"
+httpx = "^0.23.0"
+mplfinance = "^0.12.9-beta.1"
+prettytable = "^3.3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
