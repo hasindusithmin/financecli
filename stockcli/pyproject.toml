@@ -3,6 +3,10 @@ name = "stockcli"
 version = "0.1.0"
 description = ""
 authors = ["hasindu sithmin <hasindusithmin64@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+stockcli = "stockcli.main:app"
 
 [tool.poetry.dependencies]
 python = "^3.8"
