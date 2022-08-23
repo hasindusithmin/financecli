@@ -1,11 +1,7 @@
-# financecli
+# stockcli
 
-## _This is a CLI tool to retrieve data from finance.yahoo.com._
+## _This is a CLI tool :hammer_and_wrench: to retrieve data from [finance.yahoo.com](https://finance.yahoo.com/)._
 
-### Available commands
+#### :high_brightness: Available commands :high_brightness:
 
 ![cli](https://i.ibb.co/j43zt5L/cli.png)
-
-[download for win](https://github.com/hasindusithmin/financecli/raw/main/stockcli/dist/stockcli-0.1.0-py3-none-any.whl)
-
-[download for linux](https://github.com/hasindusithmin/financecli/raw/main/stockcli/dist/stockcli-0.1.0.tar.gz)

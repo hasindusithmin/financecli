@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "stockcli"
 version = "0.1.0"
-description = ""
+description = "This is a CLI tool to retrieve data from yahoo finance"
 authors = ["hasindu sithmin <hasindusithmin64@gmail.com>"]
 readme = "README.md"
+repository="https://github.com/hasindusithmin/financecli.git"
 
 [tool.poetry.scripts]
 stockcli = "stockcli.main:app"
