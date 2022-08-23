@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "stockcli"
-version = "0.1.0"
+version = "0.2.0"
 description = "This is a CLI tool to retrieve data from yahoo finance"
 authors = ["hasindu sithmin <hasindusithmin64@gmail.com>"]
 readme = "README.md"
